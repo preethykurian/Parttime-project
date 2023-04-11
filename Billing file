@@ -1,3 +1,5 @@
 read item1, item 2, item3
 final price=item1+item2+item3
 display final price
+if total priceis less than 500 no discount 
+else 20% discount
